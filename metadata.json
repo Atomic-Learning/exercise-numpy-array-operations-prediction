@@ -1,22 +1,21 @@
 {
-    "title": "",
-    "slug": "",
-    "description": "",
+    "title": "Exercise: NumPy Array Operations",
+    "slug": "exercise-numpy-array-operations",
+    "description": "A predict-then-run exercise covering element-wise arithmetic, scalar broadcasting, and operator precedence on NumPy arrays.",
     "authors": [
-        "",
-        ""
+        "chris-cooling",
+        "giorgia-del-missier"
     ],
     "tags": [
-        "",
-        ""
+        "python",
+        "numpy",
+        "exercise"
     ],
-    "duration": 0,
+    "duration": 5,
     "prerequisites": [
-        "",
-        ""
+        "numpy-array-arithmetic",
+        "numpy-array-scalar-operations",
+        "programming-operator-precedence-arithmetic"
     ],
-    "related": [
-        "",
-        ""
-    ]
+    "related": []
 }
