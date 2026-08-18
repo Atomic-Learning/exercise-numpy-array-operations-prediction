@@ -17,5 +17,9 @@
         "numpy-array-scalar-operations",
         "programming-operator-precedence-arithmetic"
     ],
-    "related": []
+    "related": [
+    ],
+    "python_packages": [
+        "numpy"
+    ]
 }
