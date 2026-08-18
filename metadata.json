@@ -1,6 +1,6 @@
 {
     "title": "Exercise: NumPy Array Operations",
-    "slug": "exercise-numpy-array-operations",
+    "slug": "exercise-numpy-array-operations-prediction",
     "description": "A predict-then-run exercise covering element-wise arithmetic, scalar broadcasting, and operator precedence on NumPy arrays.",
     "authors": [
         "chris-cooling",
